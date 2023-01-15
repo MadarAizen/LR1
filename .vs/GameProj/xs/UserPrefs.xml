@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{0A797CBC-D0DD-4BED-9FC2-30CE6FFB8C0F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GameProj PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameProj/GameResult.cs">
+    <Files>
+      <File FileName="GameProj/BaseGame.cs" Line="29" Column="22" />
+      <File FileName="GameProj/GameAccount.cs" Line="31" Column="10" />
+      <File FileName="GameProj/GameResult.cs" Line="39" Column="37" />
+      <File FileName="GameProj/Program.cs" Line="1" Column="1" />
+      <File FileName="GameProj/Result.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameProj" expanded="True">
+            <Node name="GameProj" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="GameResult.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
